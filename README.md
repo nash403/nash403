@@ -4,7 +4,7 @@
 
 I'm Honoré, also known as `nash403` (on the web) or `Hononou` (my friends call me that). I'm a full-stack web developer from France living in Montréal, Canada 👨🏾‍💻. I'm a web standards, and open-source enthusiast. Specialized in the JS/TS stack. My next goal is to explore more tech stacks oustide the Vue.js eccosystem.
 
-After hours, I listen to afrobeats, read news/tech articles, learn/laugh watching a YouTube video or enjoy a good beer with my friends 🕺🏾.
+After hours, I listen to afrobeats, go for a run, read news/tech articles, learn/laugh watching a YouTube video or enjoy a good meal with my friends 🕺🏾.
 
 <div align="center">
   <a href="https://www.hnze.dev/?ref=gh-logo" target="blank">
